@@ -1,0 +1,19 @@
+
+node_modules/
+
+# Dossier build (React)
+build/
+
+# Fichiers de logs
+npm-debug.log
+yarn-error.log
+
+# Fichier env
+.env
+
+# Fichiers du système d'exploitation (MacOS)
+.DS_Store
+
+# Répertoires spécifiques à l'IDE
+.idea/
+.vscode/
